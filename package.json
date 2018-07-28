@@ -1,0 +1,26 @@
+{
+  "name": "google-analytics-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibmdev/google-analytics-library.git"
+  },
+  "keywords": [
+    "google",
+    "analytics"
+  ],
+  "author": "'Greenit75' <'Greenit75@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibmdev/google-analytics-library/issues"
+  },
+  "homepage": "https://github.com/ibmdev/google-analytics-library#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
